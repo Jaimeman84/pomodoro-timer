@@ -62,7 +62,7 @@ def main():
     
     # Timer duration selection
     duration_options = {
-        "5 minutes": 5,
+        "5 minutes": 300,
         "15 minutes": 900,
         "30 minutes": 1800,
         "45 minutes": 2700,
